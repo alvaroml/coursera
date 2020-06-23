@@ -1,0 +1,15 @@
+section > div > div{
+    background-color: #817b80;
+    color: #000;
+    padding: 10px 20px 20px 20px;
+    margin: 10px 20px 10px 20px;
+}
+.nav > li:nth-child(1) {
+    border-top: 1px solid;
+}
+.nav > li {
+    color: #000;
+    border-bottom: 1px solid;
+    border-left: 1px solid;
+    border-right: 1px solid;
+}
